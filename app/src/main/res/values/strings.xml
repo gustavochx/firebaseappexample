@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">firebase-app-example</string>
+    <string name="txt_email">Your e-mail</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_new_user">New User</string>
+    <string name="txt_forgot_password">Forgot My Password</string>
+</resources>
